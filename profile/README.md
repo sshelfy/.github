@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sshelfy/sshelfy/main/src/Sshelfy.App/Assets/sshelfy.png" alt="sshelfy logo" width="96" height="96">
+<img src="https://raw.githubusercontent.com/sshelfy/.github/main/profile/sshelfy.png" alt="sshelfy logo" width="96" height="96">
 
 # sshelfy
 
