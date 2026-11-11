@@ -10,7 +10,8 @@ Terminal, file transfers and an encrypted vault in one app. No telemetry.
 [Download](https://github.com/sshelfy/sshelfy/releases/latest) ·
 [Website](https://sshelfy.com) ·
 [X](https://x.com/sshelfycom) ·
-[Contributing](https://github.com/sshelfy/sshelfy/blob/main/CONTRIBUTING.md)
+[Contributing](https://github.com/sshelfy/sshelfy/blob/main/CONTRIBUTING.md) ·
+[Support on Ko-fi](https://ko-fi.com/szymczakovv)
 
 </div>
 
